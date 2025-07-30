@@ -4,3 +4,14 @@
 3) git commit -m "any string"
 4) git branch -M main
 5) git push -u origin main
+
+Steps -> For pull request (Inserting a new file to the main branch by pull request)
+
+1) git init
+2) git remote add origin (link)
+3) git branch (any name)
+4) git checkout (name)
+5) git add .
+6) git commit -m "any subtitle like something"
+7) git push origin (name)
+
